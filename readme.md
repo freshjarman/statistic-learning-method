@@ -1,16 +1,4 @@
-# 《统计学习方法》第二版的代码实现
-
-李航老师编写的《统计学习方法》全面系统地介绍了统计学习的主要方法，特别是监督学习方法，包括感知机、k近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与支持向量机、提升方法、em算法、隐马尔可夫模型和条件随机场等。除第1章概论和最后一章总结外，每章介绍一种方法。叙述从具体问题或实例入手，由浅入深，阐明思路，给出必要的数学推导，便于读者掌握统计学习方法的实质，学会运用。
-
-《统计学习方法》可以说是机器学习的入门宝典，许多机器学习培训班、互联网企业的面试、笔试题目，很多都参考这本书。 
-
-今天我们将李航老师的《统计学习方法》第二版的代码进行了整理，并提供下载。
-
-非常感谢各位朋友贡献的自己的笔记、代码！
-
-2020年6月7日
-
-## 代码目录 
+# 代码目录 
 
 第1章 统计学习方法概论
 
@@ -66,10 +54,3 @@ https://github.com/WenDesi/lihang_book_algorithm
 https://blog.csdn.net/tudaodiaozhale
 
 https://github.com/hktxt/Learn-Statistical-Learning-Method
-
-代码整理和修改：机器学习初学者（公众号） ![gongzhong](images/gongzhong.jpg)
-
-
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
-
-[知乎](https://www.zhihu.com/people/fengdu78)
